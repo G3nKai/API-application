@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.application\\notes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCDF94BD-9AF9-4FE1-B95F-32A322A7E800}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.persistence\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.persistence\\entitytypeconfigurations\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C93A354F-1CCD-4611-9D50-C9F9109FA01B}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\entitytypeconfigurations\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B6DB9B-36F2-4FD0-80A0-6F71B6D7AFC1}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{14B6DB9B-36F2-4FD0-80A0-6F71B6D7AFC1}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69182E3D-B1CC-43EF-A521-F11617603D79}|Notes.Domain\\Notes.Domain.csproj|c:\\users\\shaphran\\desktop\\project development\\api-application\\noted.backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69182E3D-B1CC-43EF-A521-F11617603D79}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Notes.Persistence\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\DbInitializer.cs",
-              "RelativeToolTip": "Notes.Persistence\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "AssemblyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:47:38.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\NotesDbContext.cs",
-              "RelativeDocumentMoniker": "Notes.Persistence\\NotesDbContext.cs",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\NotesDbContext.cs",
-              "RelativeToolTip": "Notes.Persistence\\NotesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:39:07.053Z",
+              "WhenOpened": "2024-09-21T13:42:59.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "INotesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "RelativeToolTip": "Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Title": "IMapWith.cs",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:34:41.042Z",
+              "WhenOpened": "2024-09-21T13:40:54.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NoteConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
-              "RelativeDocumentMoniker": "Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
-              "RelativeToolTip": "Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:26:46.446Z",
+              "DocumentIndex": 2,
+              "Title": "Notes.Application",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Notes.Application.csproj",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes.Application.csproj",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Application\\Notes.Application.csproj",
+              "RelativeToolTip": "Notes.Application\\Notes.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T13:38:59.109Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
@@ -98,28 +85,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\NotesDbContext.cs",
+              "RelativeToolTip": "Notes.Persistence\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:22:50.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Notes.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.WebApi\\appsettings.json",
-              "RelativeToolTip": "Notes.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T10:02:06.89Z",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "Notes.Persistence\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:22:36.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Domain\\Note.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
-              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Domain\\Note.cs",
-              "RelativeToolTip": "Notes.Domain\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shaphran\\Desktop\\project development\\API-application\\Noted.Backend\\Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
+              "RelativeToolTip": "Notes.Persistence\\EntityTypeConfigurations\\NoteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:42:29.348Z",
+              "WhenOpened": "2024-09-21T13:21:08.409Z",
               "EditorCaption": ""
             }
           ]
